@@ -1,7 +1,8 @@
 <h1 align="center">Admin Dashboard</h1>
 
-![Demo App](/public/screenshot1.png)
-![Demo App](/public/screenshot2.png)
+![Demo App](/public/Screenshot-1.png)
+![Demo App](/public/Screenshot-2.png)
+
 
 
 
